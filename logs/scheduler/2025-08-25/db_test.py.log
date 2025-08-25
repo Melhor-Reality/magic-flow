@@ -1,0 +1,362 @@
+[2025-08-25 10:48:10,160] {processor.py:153} INFO - Started process (PID=6502) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:10,161] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:48:10,163] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,163] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:10,174] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:10,249] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,249] {manager.py:508} INFO - Created Permission View: can edit on DAG:hello_dag
+[2025-08-25 10:48:10,264] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,264] {manager.py:508} INFO - Created Permission View: can read on DAG:hello_dag
+[2025-08-25 10:48:10,274] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,274] {manager.py:508} INFO - Created Permission View: can delete on DAG:hello_dag
+[2025-08-25 10:48:10,274] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,274] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:48:10,286] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,286] {dag.py:2398} INFO - Creating ORM DAG for hello_dag
+[2025-08-25 10:48:10,294] {logging_mixin.py:115} INFO - [2025-08-25 10:48:10,294] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:48:10,307] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.150 seconds
+[2025-08-25 10:48:40,466] {processor.py:153} INFO - Started process (PID=6515) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:40,484] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:48:40,485] {logging_mixin.py:115} INFO - [2025-08-25 10:48:40,485] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:40,491] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:48:40,508] {logging_mixin.py:115} INFO - [2025-08-25 10:48:40,508] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:48:40,532] {logging_mixin.py:115} INFO - [2025-08-25 10:48:40,531] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:48:40,554] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.091 seconds
+[2025-08-25 10:49:10,886] {processor.py:153} INFO - Started process (PID=7149) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:10,888] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:49:10,890] {logging_mixin.py:115} INFO - [2025-08-25 10:49:10,890] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:10,918] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:10,942] {logging_mixin.py:115} INFO - [2025-08-25 10:49:10,942] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:49:10,971] {logging_mixin.py:115} INFO - [2025-08-25 10:49:10,971] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:49:10,994] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.121 seconds
+[2025-08-25 10:49:41,452] {processor.py:153} INFO - Started process (PID=7240) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:41,469] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:49:41,470] {logging_mixin.py:115} INFO - [2025-08-25 10:49:41,470] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:41,476] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:49:41,491] {logging_mixin.py:115} INFO - [2025-08-25 10:49:41,491] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:49:41,507] {logging_mixin.py:115} INFO - [2025-08-25 10:49:41,507] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:49:41,524] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.076 seconds
+[2025-08-25 10:50:11,875] {processor.py:153} INFO - Started process (PID=7333) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:11,892] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:50:11,893] {logging_mixin.py:115} INFO - [2025-08-25 10:50:11,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:11,899] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:11,918] {logging_mixin.py:115} INFO - [2025-08-25 10:50:11,918] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:50:11,938] {logging_mixin.py:115} INFO - [2025-08-25 10:50:11,938] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:50:11,956] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.083 seconds
+[2025-08-25 10:50:42,329] {processor.py:153} INFO - Started process (PID=7424) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:42,331] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:50:42,331] {logging_mixin.py:115} INFO - [2025-08-25 10:50:42,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:42,336] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:50:42,351] {logging_mixin.py:115} INFO - [2025-08-25 10:50:42,351] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:50:42,365] {logging_mixin.py:115} INFO - [2025-08-25 10:50:42,364] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:50:42,390] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.064 seconds
+[2025-08-25 10:51:12,820] {processor.py:153} INFO - Started process (PID=7509) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:12,839] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:51:12,840] {logging_mixin.py:115} INFO - [2025-08-25 10:51:12,840] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:12,855] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:12,901] {logging_mixin.py:115} INFO - [2025-08-25 10:51:12,900] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:51:12,950] {logging_mixin.py:115} INFO - [2025-08-25 10:51:12,950] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:51:12,975] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.163 seconds
+[2025-08-25 10:51:43,456] {processor.py:153} INFO - Started process (PID=7600) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:43,461] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:51:43,463] {logging_mixin.py:115} INFO - [2025-08-25 10:51:43,463] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:43,472] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:51:43,490] {logging_mixin.py:115} INFO - [2025-08-25 10:51:43,490] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:51:43,511] {logging_mixin.py:115} INFO - [2025-08-25 10:51:43,511] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:51:43,532] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.080 seconds
+[2025-08-25 10:52:14,010] {processor.py:153} INFO - Started process (PID=7691) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:14,017] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:52:14,019] {logging_mixin.py:115} INFO - [2025-08-25 10:52:14,019] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:14,038] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:14,073] {logging_mixin.py:115} INFO - [2025-08-25 10:52:14,073] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:52:14,117] {logging_mixin.py:115} INFO - [2025-08-25 10:52:14,116] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:52:14,148] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.145 seconds
+[2025-08-25 10:52:44,263] {processor.py:153} INFO - Started process (PID=7776) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:44,284] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:52:44,286] {logging_mixin.py:115} INFO - [2025-08-25 10:52:44,286] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:44,305] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:52:44,353] {logging_mixin.py:115} INFO - [2025-08-25 10:52:44,352] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:52:44,384] {logging_mixin.py:115} INFO - [2025-08-25 10:52:44,384] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:52:44,404] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.148 seconds
+[2025-08-25 10:53:14,466] {processor.py:153} INFO - Started process (PID=7861) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:14,471] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:53:14,472] {logging_mixin.py:115} INFO - [2025-08-25 10:53:14,472] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:14,490] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:14,512] {logging_mixin.py:115} INFO - [2025-08-25 10:53:14,512] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:53:14,536] {logging_mixin.py:115} INFO - [2025-08-25 10:53:14,536] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:53:14,558] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.101 seconds
+[2025-08-25 10:53:45,544] {processor.py:153} INFO - Started process (PID=7952) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:45,549] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:53:45,551] {logging_mixin.py:115} INFO - [2025-08-25 10:53:45,550] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:45,569] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:53:45,604] {logging_mixin.py:115} INFO - [2025-08-25 10:53:45,603] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:53:45,650] {logging_mixin.py:115} INFO - [2025-08-25 10:53:45,650] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:53:45,675] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.139 seconds
+[2025-08-25 10:54:16,115] {processor.py:153} INFO - Started process (PID=8043) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:16,118] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:54:16,120] {logging_mixin.py:115} INFO - [2025-08-25 10:54:16,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:16,136] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:16,180] {logging_mixin.py:115} INFO - [2025-08-25 10:54:16,180] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:54:16,225] {logging_mixin.py:115} INFO - [2025-08-25 10:54:16,225] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:54:16,255] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.148 seconds
+[2025-08-25 10:54:46,774] {processor.py:153} INFO - Started process (PID=8135) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:46,794] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:54:46,796] {logging_mixin.py:115} INFO - [2025-08-25 10:54:46,796] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:46,813] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:54:46,841] {logging_mixin.py:115} INFO - [2025-08-25 10:54:46,841] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:54:46,874] {logging_mixin.py:115} INFO - [2025-08-25 10:54:46,873] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:54:46,902] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.138 seconds
+[2025-08-25 10:55:17,341] {processor.py:153} INFO - Started process (PID=8220) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:17,343] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:55:17,345] {logging_mixin.py:115} INFO - [2025-08-25 10:55:17,345] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:17,358] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:17,385] {logging_mixin.py:115} INFO - [2025-08-25 10:55:17,385] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:55:17,416] {logging_mixin.py:115} INFO - [2025-08-25 10:55:17,416] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:55:17,441] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.103 seconds
+[2025-08-25 10:55:47,860] {processor.py:153} INFO - Started process (PID=8314) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:47,879] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:55:47,880] {logging_mixin.py:115} INFO - [2025-08-25 10:55:47,880] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:47,887] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:55:47,907] {logging_mixin.py:115} INFO - [2025-08-25 10:55:47,907] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:55:47,929] {logging_mixin.py:115} INFO - [2025-08-25 10:55:47,928] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:55:47,952] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.096 seconds
+[2025-08-25 10:56:18,268] {processor.py:153} INFO - Started process (PID=8404) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:18,269] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:56:18,274] {logging_mixin.py:115} INFO - [2025-08-25 10:56:18,273] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:18,284] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:18,303] {logging_mixin.py:115} INFO - [2025-08-25 10:56:18,303] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:56:18,348] {logging_mixin.py:115} INFO - [2025-08-25 10:56:18,347] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:56:18,369] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.109 seconds
+[2025-08-25 10:56:48,822] {processor.py:153} INFO - Started process (PID=8835) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:48,824] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:56:48,825] {logging_mixin.py:115} INFO - [2025-08-25 10:56:48,825] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:48,838] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:56:48,871] {logging_mixin.py:115} INFO - [2025-08-25 10:56:48,871] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:56:48,903] {logging_mixin.py:115} INFO - [2025-08-25 10:56:48,903] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:56:48,933] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.115 seconds
+[2025-08-25 10:57:19,462] {processor.py:153} INFO - Started process (PID=8923) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:19,480] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:57:19,481] {logging_mixin.py:115} INFO - [2025-08-25 10:57:19,480] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:19,486] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:19,499] {logging_mixin.py:115} INFO - [2025-08-25 10:57:19,499] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:57:19,515] {logging_mixin.py:115} INFO - [2025-08-25 10:57:19,514] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:57:19,543] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.085 seconds
+[2025-08-25 10:57:49,280] {processor.py:153} INFO - Started process (PID=9027) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:49,284] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:57:49,285] {logging_mixin.py:115} INFO - [2025-08-25 10:57:49,285] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:49,293] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:57:49,307] {logging_mixin.py:115} INFO - [2025-08-25 10:57:49,307] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:57:49,331] {logging_mixin.py:115} INFO - [2025-08-25 10:57:49,330] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:57:49,347] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.073 seconds
+[2025-08-25 10:58:19,521] {processor.py:153} INFO - Started process (PID=9132) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:19,524] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:58:19,526] {logging_mixin.py:115} INFO - [2025-08-25 10:58:19,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:19,539] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:19,570] {logging_mixin.py:115} INFO - [2025-08-25 10:58:19,570] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:58:19,605] {logging_mixin.py:115} INFO - [2025-08-25 10:58:19,605] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:58:19,626] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.115 seconds
+[2025-08-25 10:58:44,954] {processor.py:153} INFO - Started process (PID=9219) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:44,956] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:58:44,956] {logging_mixin.py:115} INFO - [2025-08-25 10:58:44,956] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:44,967] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:58:44,987] {logging_mixin.py:115} INFO - [2025-08-25 10:58:44,987] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:58:45,012] {logging_mixin.py:115} INFO - [2025-08-25 10:58:45,012] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:58:45,029] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.078 seconds
+[2025-08-25 10:59:15,155] {processor.py:153} INFO - Started process (PID=9317) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:15,158] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:59:15,159] {logging_mixin.py:115} INFO - [2025-08-25 10:59:15,159] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:15,175] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:15,215] {logging_mixin.py:115} INFO - [2025-08-25 10:59:15,215] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:59:15,254] {logging_mixin.py:115} INFO - [2025-08-25 10:59:15,254] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:59:15,278] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.134 seconds
+[2025-08-25 10:59:45,647] {processor.py:153} INFO - Started process (PID=9402) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:45,664] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 10:59:45,664] {logging_mixin.py:115} INFO - [2025-08-25 10:59:45,664] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:45,668] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 10:59:45,684] {logging_mixin.py:115} INFO - [2025-08-25 10:59:45,684] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 10:59:45,700] {logging_mixin.py:115} INFO - [2025-08-25 10:59:45,700] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 10:59:45,710] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.066 seconds
+[2025-08-25 11:00:16,010] {processor.py:153} INFO - Started process (PID=9493) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:16,011] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:00:16,011] {logging_mixin.py:115} INFO - [2025-08-25 11:00:16,011] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:16,017] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:16,033] {logging_mixin.py:115} INFO - [2025-08-25 11:00:16,033] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:00:16,050] {logging_mixin.py:115} INFO - [2025-08-25 11:00:16,050] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:00:16,064] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.058 seconds
+[2025-08-25 11:00:46,381] {processor.py:153} INFO - Started process (PID=9592) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:46,385] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:00:46,386] {logging_mixin.py:115} INFO - [2025-08-25 11:00:46,386] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:46,401] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:00:46,437] {logging_mixin.py:115} INFO - [2025-08-25 11:00:46,436] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:00:46,475] {logging_mixin.py:115} INFO - [2025-08-25 11:00:46,475] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:00:46,501] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.127 seconds
+[2025-08-25 11:01:16,883] {processor.py:153} INFO - Started process (PID=9692) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:16,885] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:01:16,886] {logging_mixin.py:115} INFO - [2025-08-25 11:01:16,886] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:16,898] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:16,924] {logging_mixin.py:115} INFO - [2025-08-25 11:01:16,924] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:01:16,954] {logging_mixin.py:115} INFO - [2025-08-25 11:01:16,954] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:01:16,979] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.101 seconds
+[2025-08-25 11:01:47,604] {processor.py:153} INFO - Started process (PID=9786) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:47,622] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:01:47,622] {logging_mixin.py:115} INFO - [2025-08-25 11:01:47,622] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:47,628] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:01:47,643] {logging_mixin.py:115} INFO - [2025-08-25 11:01:47,643] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:01:47,659] {logging_mixin.py:115} INFO - [2025-08-25 11:01:47,659] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:01:47,675] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.073 seconds
+[2025-08-25 11:02:01,282] {processor.py:153} INFO - Started process (PID=9844) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:01,284] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:02:01,284] {logging_mixin.py:115} INFO - [2025-08-25 11:02:01,284] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:01,288] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:01,300] {logging_mixin.py:115} INFO - [2025-08-25 11:02:01,299] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:02:01,318] {logging_mixin.py:115} INFO - [2025-08-25 11:02:01,318] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:02:01,330] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.051 seconds
+[2025-08-25 11:02:31,519] {processor.py:153} INFO - Started process (PID=9935) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:31,538] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:02:31,540] {logging_mixin.py:115} INFO - [2025-08-25 11:02:31,540] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:31,566] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:02:31,610] {logging_mixin.py:115} INFO - [2025-08-25 11:02:31,610] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:02:31,659] {logging_mixin.py:115} INFO - [2025-08-25 11:02:31,658] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:02:31,685] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.177 seconds
+[2025-08-25 11:03:02,003] {processor.py:153} INFO - Started process (PID=10238) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:02,021] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:03:02,022] {logging_mixin.py:115} INFO - [2025-08-25 11:03:02,022] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:02,041] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:02,079] {logging_mixin.py:115} INFO - [2025-08-25 11:03:02,079] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:03:02,122] {logging_mixin.py:115} INFO - [2025-08-25 11:03:02,122] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:03:02,150] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.152 seconds
+[2025-08-25 11:03:32,549] {processor.py:153} INFO - Started process (PID=10345) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:32,551] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:03:32,551] {logging_mixin.py:115} INFO - [2025-08-25 11:03:32,551] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:32,556] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:03:32,571] {logging_mixin.py:115} INFO - [2025-08-25 11:03:32,571] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:03:32,586] {logging_mixin.py:115} INFO - [2025-08-25 11:03:32,586] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:03:32,599] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.052 seconds
+[2025-08-25 11:04:02,691] {processor.py:153} INFO - Started process (PID=10430) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:02,692] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:04:02,693] {logging_mixin.py:115} INFO - [2025-08-25 11:04:02,693] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:02,701] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:02,721] {logging_mixin.py:115} INFO - [2025-08-25 11:04:02,721] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:04:02,742] {logging_mixin.py:115} INFO - [2025-08-25 11:04:02,742] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:04:02,756] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.068 seconds
+[2025-08-25 11:04:32,828] {processor.py:153} INFO - Started process (PID=10523) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:32,831] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:04:32,832] {logging_mixin.py:115} INFO - [2025-08-25 11:04:32,832] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:32,840] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:04:32,863] {logging_mixin.py:115} INFO - [2025-08-25 11:04:32,863] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:04:32,886] {logging_mixin.py:115} INFO - [2025-08-25 11:04:32,886] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:04:32,903] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.078 seconds
+[2025-08-25 11:05:02,976] {processor.py:153} INFO - Started process (PID=10626) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:02,996] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:05:02,997] {logging_mixin.py:115} INFO - [2025-08-25 11:05:02,997] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:03,008] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:03,035] {logging_mixin.py:115} INFO - [2025-08-25 11:05:03,034] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:05:03,072] {logging_mixin.py:115} INFO - [2025-08-25 11:05:03,072] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:05:03,090] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.119 seconds
+[2025-08-25 11:05:34,031] {processor.py:153} INFO - Started process (PID=10800) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:34,050] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:05:34,052] {logging_mixin.py:115} INFO - [2025-08-25 11:05:34,051] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:34,065] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:05:34,091] {logging_mixin.py:115} INFO - [2025-08-25 11:05:34,091] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:05:34,123] {logging_mixin.py:115} INFO - [2025-08-25 11:05:34,122] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:05:34,149] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.122 seconds
+[2025-08-25 11:06:04,248] {processor.py:153} INFO - Started process (PID=10985) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:04,251] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:06:04,252] {logging_mixin.py:115} INFO - [2025-08-25 11:06:04,252] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:04,257] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:04,271] {logging_mixin.py:115} INFO - [2025-08-25 11:06:04,271] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:06:04,314] {logging_mixin.py:115} INFO - [2025-08-25 11:06:04,314] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:06:04,339] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.095 seconds
+[2025-08-25 11:06:34,370] {processor.py:153} INFO - Started process (PID=11081) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:34,389] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:06:34,391] {logging_mixin.py:115} INFO - [2025-08-25 11:06:34,390] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:34,406] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:06:34,438] {logging_mixin.py:115} INFO - [2025-08-25 11:06:34,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:06:34,482] {logging_mixin.py:115} INFO - [2025-08-25 11:06:34,481] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:06:34,508] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.144 seconds
+[2025-08-25 11:07:05,422] {processor.py:153} INFO - Started process (PID=11213) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:05,425] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:07:05,426] {logging_mixin.py:115} INFO - [2025-08-25 11:07:05,426] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:05,436] {processor.py:651} INFO - DAG(s) dict_keys(['hello_dag']) retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:05,460] {logging_mixin.py:115} INFO - [2025-08-25 11:07:05,459] {dag.py:2379} INFO - Sync 1 DAGs
+[2025-08-25 11:07:05,494] {logging_mixin.py:115} INFO - [2025-08-25 11:07:05,494] {dag.py:2927} INFO - Setting next_dagrun for hello_dag to None, run_after=None
+[2025-08-25 11:07:05,519] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.102 seconds
+[2025-08-25 11:07:35,986] {processor.py:153} INFO - Started process (PID=11423) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:36,004] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:07:36,005] {logging_mixin.py:115} INFO - [2025-08-25 11:07:36,005] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:36,007] {logging_mixin.py:115} INFO - [2025-08-25 11:07:36,006] {dagbag.py:320} ERROR - Failed to import: /home/ruth/study/gptcoach/dags/db_test.py
+Traceback (most recent call last):
+  File "/home/ruth/magic-flow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/ruth/study/gptcoach/dags/db_test.py", line 18
+    	/home/ruth/study/gptcoach/dags	/home/ruth/study/gptcoach/dags
+    ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2025-08-25 11:07:36,007] {processor.py:653} WARNING - No viable dags retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:07:36,024] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.040 seconds
+[2025-08-25 11:08:06,411] {processor.py:153} INFO - Started process (PID=11533) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:06,414] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:08:06,415] {logging_mixin.py:115} INFO - [2025-08-25 11:08:06,414] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:06,417] {logging_mixin.py:115} INFO - [2025-08-25 11:08:06,416] {dagbag.py:320} ERROR - Failed to import: /home/ruth/study/gptcoach/dags/db_test.py
+Traceback (most recent call last):
+  File "/home/ruth/magic-flow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/ruth/study/gptcoach/dags/db_test.py", line 18
+    	/home/ruth/study/gptcoach/dags	/home/ruth/study/gptcoach/dags
+    ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2025-08-25 11:08:06,417] {processor.py:653} WARNING - No viable dags retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:06,442] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.033 seconds
+[2025-08-25 11:08:36,841] {processor.py:153} INFO - Started process (PID=11622) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:36,845] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:08:36,846] {logging_mixin.py:115} INFO - [2025-08-25 11:08:36,846] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:36,848] {logging_mixin.py:115} INFO - [2025-08-25 11:08:36,847] {dagbag.py:320} ERROR - Failed to import: /home/ruth/study/gptcoach/dags/db_test.py
+Traceback (most recent call last):
+  File "/home/ruth/magic-flow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/ruth/study/gptcoach/dags/db_test.py", line 18
+    	/home/ruth/study/gptcoach/dags	/home/ruth/study/gptcoach/dags
+    ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2025-08-25 11:08:36,849] {processor.py:653} WARNING - No viable dags retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:08:36,865] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.026 seconds
+[2025-08-25 11:09:06,999] {processor.py:153} INFO - Started process (PID=11715) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:07,019] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:09:07,020] {logging_mixin.py:115} INFO - [2025-08-25 11:09:07,019] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:07,024] {logging_mixin.py:115} INFO - [2025-08-25 11:09:07,023] {dagbag.py:320} ERROR - Failed to import: /home/ruth/study/gptcoach/dags/db_test.py
+Traceback (most recent call last):
+  File "/home/ruth/magic-flow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/ruth/study/gptcoach/dags/db_test.py", line 18
+    	/home/ruth/study/gptcoach/dags	/home/ruth/study/gptcoach/dags
+    ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2025-08-25 11:09:07,025] {processor.py:653} WARNING - No viable dags retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:07,057] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.070 seconds
+[2025-08-25 11:09:37,648] {processor.py:153} INFO - Started process (PID=11846) to work on /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:37,666] {processor.py:641} INFO - Processing file /home/ruth/study/gptcoach/dags/db_test.py for tasks to queue
+[2025-08-25 11:09:37,667] {logging_mixin.py:115} INFO - [2025-08-25 11:09:37,667] {dagbag.py:507} INFO - Filling up the DagBag from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:37,670] {logging_mixin.py:115} INFO - [2025-08-25 11:09:37,669] {dagbag.py:320} ERROR - Failed to import: /home/ruth/study/gptcoach/dags/db_test.py
+Traceback (most recent call last):
+  File "/home/ruth/magic-flow/venv/lib/python3.9/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 846, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 983, in get_code
+  File "<frozen importlib._bootstrap_external>", line 913, in source_to_code
+  File "<frozen importlib._bootstrap>", line 228, in _call_with_frames_removed
+  File "/home/ruth/study/gptcoach/dags/db_test.py", line 18
+    	/home/ruth/study/gptcoach/dags	/home/ruth/study/gptcoach/dags
+    ^
+TabError: inconsistent use of tabs and spaces in indentation
+[2025-08-25 11:09:37,670] {processor.py:653} WARNING - No viable dags retrieved from /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:09:37,707] {processor.py:161} INFO - Processing /home/ruth/study/gptcoach/dags/db_test.py took 0.065 seconds

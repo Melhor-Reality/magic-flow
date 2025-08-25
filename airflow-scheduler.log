@@ -1,0 +1,21 @@
+2025-08-25 11:13:41,485 INFO - Starting the scheduler
+2025-08-25 11:13:41,485 INFO - Processing each file at most -1 times
+2025-08-25 11:13:41,487 INFO - Loaded executor: SequentialExecutor
+2025-08-25 11:13:41,489 INFO - Launched DagFileProcessorManager with pid: 13235
+2025-08-25 11:13:41,490 INFO - Resetting orphaned tasks for active dag runs
+2025-08-25 11:13:41,493 INFO - Configured default timezone Timezone('UTC')
+2025-08-25 11:17:25,171 INFO - Exiting gracefully upon receiving signal 15
+2025-08-25 11:17:25,343 INFO - Sending Signals.SIGTERM to group 13235. PIDs of all processes in the group: []
+2025-08-25 11:17:25,344 INFO - Sending the signal Signals.SIGTERM to group 13235
+2025-08-25 11:17:25,344 INFO - Sending the signal Signals.SIGTERM to process 13235 as process group is missing.
+2025-08-25 11:17:25,347 INFO - Sending Signals.SIGTERM to group 13235. PIDs of all processes in the group: []
+2025-08-25 11:17:25,347 INFO - Sending the signal Signals.SIGTERM to group 13235
+2025-08-25 11:17:25,347 INFO - Sending the signal Signals.SIGTERM to process 13235 as process group is missing.
+2025-08-25 11:17:25,348 INFO - Exited execute loop
+2025-08-25 11:22:49,844 INFO - Starting the scheduler
+2025-08-25 11:22:49,845 INFO - Processing each file at most -1 times
+2025-08-25 11:22:49,847 INFO - Loaded executor: SequentialExecutor
+2025-08-25 11:22:49,850 INFO - Launched DagFileProcessorManager with pid: 15105
+2025-08-25 11:22:49,852 INFO - Resetting orphaned tasks for active dag runs
+2025-08-25 11:22:49,855 INFO - Configured default timezone Timezone('UTC')
+2025-08-25 11:27:49,930 INFO - Resetting orphaned tasks for active dag runs

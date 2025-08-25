@@ -1,0 +1,701 @@
+[2025-08-25 10:48:10,107] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 10:48:10,107] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 10:48:10,107] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 10:48:10,107] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:48:10,113] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:48:10,356] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:48:10
+================================================================================
+[2025-08-25 10:48:40,559] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:48:40
+================================================================================
+[2025-08-25 10:49:11,067] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:49:11
+================================================================================
+[2025-08-25 10:49:41,547] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:49:41
+================================================================================
+[2025-08-25 10:50:11,972] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:50:11
+================================================================================
+[2025-08-25 10:50:42,425] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:50:42
+================================================================================
+[2025-08-25 10:51:13,007] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:51:13
+================================================================================
+[2025-08-25 10:51:43,548] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.11s           2025-08-25T13:51:43
+================================================================================
+[2025-08-25 10:52:14,201] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:52:14
+================================================================================
+[2025-08-25 10:52:44,447] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:52:44
+================================================================================
+[2025-08-25 10:53:10,132] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:53:10,135] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:53:14,653] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.20s           2025-08-25T13:53:14
+================================================================================
+[2025-08-25 10:53:45,733] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:53:45
+================================================================================
+[2025-08-25 10:54:16,303] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:54:16
+================================================================================
+[2025-08-25 10:54:46,959] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:54:46
+================================================================================
+[2025-08-25 10:55:17,535] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:55:17
+================================================================================
+[2025-08-25 10:55:47,955] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:55:47
+================================================================================
+[2025-08-25 10:56:18,458] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.20s           2025-08-25T13:56:18
+================================================================================
+[2025-08-25 10:56:49,016] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:56:49
+================================================================================
+[2025-08-25 10:57:19,559] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:57:19
+================================================================================
+[2025-08-25 10:57:42,477] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 10:57:49,239] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 10:57:49,239] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 10:57:49,239] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 10:57:49,239] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:57:49,240] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:57:49,372] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:57:49
+================================================================================
+[2025-08-25 10:58:19,709] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:58:19
+================================================================================
+[2025-08-25 10:58:39,017] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 10:58:44,912] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 10:58:44,912] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 10:58:44,913] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 10:58:44,913] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:58:44,914] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 10:58:45,047] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:58:45
+================================================================================
+[2025-08-25 10:59:15,341] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T13:59:15
+================================================================================
+[2025-08-25 10:59:45,743] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T13:59:45
+================================================================================
+[2025-08-25 11:00:16,105] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:00:16
+================================================================================
+[2025-08-25 11:00:46,569] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T14:00:46
+================================================================================
+[2025-08-25 11:01:17,075] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.20s           2025-08-25T14:01:17
+================================================================================
+[2025-08-25 11:01:47,697] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:01:47
+================================================================================
+[2025-08-25 11:01:53,794] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:02:01,235] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:02:01,235] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:02:01,236] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 11:02:01,236] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:02:01,237] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:02:01,377] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:02:01
+================================================================================
+[2025-08-25 11:02:31,705] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T14:02:31
+================================================================================
+[2025-08-25 11:03:02,195] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T14:03:02
+================================================================================
+[2025-08-25 11:03:32,645] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:03:32
+================================================================================
+[2025-08-25 11:04:02,783] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:04:02
+================================================================================
+[2025-08-25 11:04:32,922] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:04:32
+================================================================================
+[2025-08-25 11:05:03,168] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T14:05:03
+================================================================================
+[2025-08-25 11:05:34,225] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.20s           2025-08-25T14:05:34
+================================================================================
+[2025-08-25 11:06:04,343] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.10s           2025-08-25T14:06:04
+================================================================================
+[2025-08-25 11:06:34,560] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.20s           2025-08-25T14:06:34
+================================================================================
+[2025-08-25 11:07:01,255] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:07:01,257] {manager.py:693} INFO - There are 1 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:07:05,612] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           1           0  0.21s           2025-08-25T14:07:05
+================================================================================
+[2025-08-25 11:07:36,083] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:07:36
+================================================================================
+[2025-08-25 11:08:06,508] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:08:06
+================================================================================
+[2025-08-25 11:08:36,938] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:08:36
+================================================================================
+[2025-08-25 11:09:02,173] {manager.py:511} INFO - DAG hello_dag is missing and will be deactivated.
+[2025-08-25 11:09:02,179] {manager.py:521} INFO - Deactivated 1 DAGs which are no longer present in file.
+[2025-08-25 11:09:07,082] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.11s           2025-08-25T14:09:07
+================================================================================
+[2025-08-25 11:09:37,740] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:09:37
+================================================================================
+[2025-08-25 11:10:00,065] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:01,100] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:02,125] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:02,431] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:03,027] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:04,091] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:05,132] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:06,169] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:07,201] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:08,088] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:08,088] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:09:37
+================================================================================
+[2025-08-25 11:10:09,138] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:10,165] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:11,200] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:12,229] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:13,091] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:13,137] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:14,210] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:15,244] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:16,292] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:17,327] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:17,473] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:18,210] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:19,285] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:20,314] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:21,347] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:22,397] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:23,127] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:23,285] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:24,364] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:25,394] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:26,419] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:27,461] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:28,364] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:29,432] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:30,454] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:31,490] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:32,497] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:33,178] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:33,431] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:34,464] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:35,486] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:36,517] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:37,540] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:38,466] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:38,467] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:09:37
+================================================================================
+[2025-08-25 11:10:39,543] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:40,581] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:41,620] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:42,667] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:43,202] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:43,543] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:44,616] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:45,663] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:46,689] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:47,535] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:48,571] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:48,615] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:49,668] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:50,716] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:51,763] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:52,809] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:53,230] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:53,667] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:54,723] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:55,747] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:56,783] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:57,808] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:58,723] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:10:59,763] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:00,800] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:01,821] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:02,573] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:03,270] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:03,761] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:04,814] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:05,851] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:06,891] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:07,924] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:08,813] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:08,814] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:09:37
+================================================================================
+[2025-08-25 11:11:09,880] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:10,901] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:11,933] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:12,970] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:13,296] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:13,880] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:14,912] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:15,969] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:17,019] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:17,599] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:18,646] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:18,910] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:19,979] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:21,032] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:22,078] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:23,119] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:23,343] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:23,979] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:25,039] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:26,083] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:27,129] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:28,173] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:29,039] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:30,112] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:31,150] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:32,189] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:32,646] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:33,377] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:34,111] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:35,237] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:36,274] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:37,296] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:38,331] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:39,237] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:39,238] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                  PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/study/gptcoach/dags/db_test.py                           0           1  0.10s           2025-08-25T14:09:37
+================================================================================
+[2025-08-25 11:11:40,294] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:41,335] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:42,379] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:43,414] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:44,294] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:45,356] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:46,400] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:47,435] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:47,694] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:48,726] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:49,355] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:50,407] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:51,450] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:52,472] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:53,461] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:54,407] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:55,466] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:56,505] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:57,547] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:58,591] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:11:59,466] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:12:00,538] {manager.py:1011} WARNING - Skipping processing of missing file: /home/ruth/study/gptcoach/dags/db_test.py
+[2025-08-25 11:12:01,317] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:12:01,318] {manager.py:693} INFO - There are 0 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:12:12,916] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:12:19,748] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:12:19,748] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:12:19,748] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 11:12:19,748] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:12:19,748] {manager.py:693} INFO - There are 0 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:13:08,097] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:13:41,504] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:13:41,504] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:13:41,504] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 11:13:41,504] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:13:41,504] {manager.py:693} INFO - There are 0 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:17:25,171] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:17:44,791] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:17:44,791] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:17:44,791] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 11:17:44,792] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:17:44,792] {manager.py:693} INFO - There are 0 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:18:12,333] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:18:20,218] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:18:20,218] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:18:20,218] {manager.py:482} INFO - Checking for new files in /home/ruth/study/gptcoach/dags every 300 seconds
+[2025-08-25 11:18:20,218] {manager.py:690} INFO - Searching for files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:18:20,218] {manager.py:693} INFO - There are 0 files in /home/ruth/study/gptcoach/dags
+[2025-08-25 11:22:28,970] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2025-08-25 11:22:49,873] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2025-08-25 11:22:49,873] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2025-08-25 11:22:49,873] {manager.py:482} INFO - Checking for new files in /home/ruth/magic-flow/dags every 300 seconds
+[2025-08-25 11:22:49,873] {manager.py:690} INFO - Searching for files in /home/ruth/magic-flow/dags
+[2025-08-25 11:22:49,874] {manager.py:693} INFO - There are 1 files in /home/ruth/magic-flow/dags
+[2025-08-25 11:22:50,114] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:22:50
+================================================================================
+[2025-08-25 11:23:20,352] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.11s           2025-08-25T14:23:20
+================================================================================
+[2025-08-25 11:23:50,898] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:23:50
+================================================================================
+[2025-08-25 11:24:21,303] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.11s           2025-08-25T14:24:21
+================================================================================
+[2025-08-25 11:24:51,527] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:24:51
+================================================================================
+[2025-08-25 11:25:22,141] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.10s           2025-08-25T14:25:22
+================================================================================
+[2025-08-25 11:25:52,647] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.10s           2025-08-25T14:25:52
+================================================================================
+[2025-08-25 11:26:22,913] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:26:22
+================================================================================
+[2025-08-25 11:26:53,486] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.10s           2025-08-25T14:26:53
+================================================================================
+[2025-08-25 11:27:23,981] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:27:23
+================================================================================
+[2025-08-25 11:27:49,888] {manager.py:690} INFO - Searching for files in /home/ruth/magic-flow/dags
+[2025-08-25 11:27:49,890] {manager.py:693} INFO - There are 1 files in /home/ruth/magic-flow/dags
+[2025-08-25 11:27:54,261] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.21s           2025-08-25T14:27:54
+================================================================================
+[2025-08-25 11:28:24,828] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.11s           2025-08-25T14:28:24
+================================================================================
+[2025-08-25 11:28:55,233] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.10s           2025-08-25T14:28:55
+================================================================================
+[2025-08-25 11:29:25,585] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.10s           2025-08-25T14:29:25
+================================================================================
+[2025-08-25 11:29:56,064] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+---------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/home/ruth/magic-flow/dags/teste_dag.py                           1           0  0.11s           2025-08-25T14:29:56
+================================================================================
